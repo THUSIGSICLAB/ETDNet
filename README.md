@@ -14,7 +14,7 @@ Download the dataset(s) from corresponding links below.
  - NEU-DET: [BaiduNetDisk](https://pan.baidu.com/s/1zfnyTZHHtSRq5iR3fNf7HA?pwd=f25o)
 
 The COCO pretrained weight of our ETDNet:
- - ETDNet Weight: [BaiduNetDisk](https://pan.baidu.com/s/1-c_-Jb6WFjSFXqjV98FtCA?pwd=iug2)
+ - ETDNet Weight: [BaiduNetDisk](https://pan.baidu.com/s/1mKfQDkFvCwXdNKhdiFH7FA?pwd=09b0)
 
 
 ## 🚀 Training
