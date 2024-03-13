@@ -8,7 +8,12 @@ For more details, please refer to our [paper](https://ieeexplore.ieee.org/abstra
 <img src="assets/etdnet.png">
 
 ## :open_file_folder: Datasets and Weight
-We release NEU-DET dataset used in this paper, including VOC style and COCO style. Note that five-flod cross-validation is used to divide the dataset.
+We release Sewer Defect Detection Dataset (SEDD) dataset used in this paper. The SEDD contains 7563 images with a resolution of 1920 × 1080. It collects sewer pipeline images of three typical surface defects crack, root, and deposit. One distinct characteristic of SEDD is that it has a high proportion of defect-free images (nearly two-thirds), which makes the detection scene more consistent with the real world.
+
+Download the dataset from corresponding link below.
+ - SEDD: [BaiduNetDisk]()
+
+We also release NEU-DET dataset used in this paper, including VOC style and COCO style. Note that five-flod cross-validation is used to divide the dataset.
 
 Download the dataset(s) from corresponding links below.
  - NEU-DET: [BaiduNetDisk](https://pan.baidu.com/s/1zfnyTZHHtSRq5iR3fNf7HA?pwd=f25o)
